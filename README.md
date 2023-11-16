@@ -98,7 +98,7 @@ In the backward pass,
 
 
 
-## ALGORITHM:
+## ALGORITHM :
 
 1.Import the necessary libraries of python.
 
